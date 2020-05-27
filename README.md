@@ -1,2 +1,0 @@
-# ModernButtonHoverAnimation
-Created with CodeSandbox
